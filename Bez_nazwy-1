@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="pl-PL">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title>Blog firmy Pełen Wypas S.A.</title>
+    <link rel="stylesheet" href="style.css" type="text/css">
+</head>
+
+    <header id="page_header">
+        <h1>Blog firmy Pełen Wypas S.A.</h1>
+        <nav>
+            <ul>
+                <li><a href="/">Najnowsze wpisy</a></li>
+                <li><a href="/">Archiwum</a></li>
+                <li><a href="/">Autorzy</a></li>
+                <li><a href="/">Kontakt</a></li>
+            </ul>
+        </nav>
+    </header>
+    <section id="posts">
+    <article class="post">
+        <header>
+            <h2>Jak uniknąć czyjejś odmowy?</h2>
+            <p>Dodane przez Brian w dniu
+                <time datetime="2016-01-12T14:39">12 stycznia 2016, godz.14:39</time>
+            </p>
+        </header>
+        
+        <aside>
+            <p>
+                &quot;Gdy sprzedajesz produkt, nigdy nie daj klientowi okazji, by mógł powiedziec nie.&quot;
+            </p>
+        </aside>
+        <p>
+            Pierwsza kluczowa reguła w sprzedaży mówi, że jeśli klient wychodzi z pustymi rękami, to najprawdopodobniej już nie wróci. Dlatego w trakcie pracy nad klientem trzeba być nieco agresywnym, ale też nie należy przesadzić, aby klienta nie wystraszyć.
+        </p>
+        <p>
+            Jeden ze spodobów na podtrzymywanie rozmowy polega na tym, aby nie zadawać pytań, na któe klient może odpowiedzieć tak lub nie. Jeżeli na przykład sprzedjaesz usługę na określony czas, nigdy nie zadawaj pytania &quot;Czy jest Pan/Pani zainteresowany/a naszą usługą na 3 lub 5 lat?&quot; Zamiast tego należy zapytać &quot;Czy jest Pan/Pani zainteresowany/a usługą na 3 lata, czy też usługąna 5 lat, która jest tańsza?&quot; Na pierwszy rzut oka pytania dotyczą tego samego i klient może odmówić zakupu, jednak w przypadku drugiej wersji pytania klientowi będzie trudniej odmówić, ponieważ będzie musiał powiedzieć coś więcej niż tylko &quot;nie.&quot;
+        </p>
+        <footer>
+            <p><a href="comments"><i>25 komentarzy</i></a>...</p>
+        </footer>
+    </article>
+    </section>
+    <section id="sidebar">
+        <nav>
+            <h3>Archiwum</h3>
+            <ul>
+                <li><a href="2016/01">Styczeń 2016</a></li>
+                <li><a href="2015/12">Grudzień 2015</a></li>
+                <li><a href="2015/11">Listopad 2015</a></li>
+                <li><a href="2015/10">Październik 2015</a></li>
+                <li><a href="2015/09">Wrzesień 2015</a></li>
+                <li><a href="2015/08">Sierpień 2015</a></li>
+                <li><a href="2015/07">Lipiec 2015</a></li>
+                <li><a href="2015/06">Czerwiec 2015</a></li>
+                <li><a href="2015/05">Maj 2015</a></li>
+                 <li><a href="2015/04">Kwiecień 2015</a></li>
+                <li><a href="2015/03">Marzec 2015</a></li>
+                <li><a href="2015/02">Luty 2015</a></li>
+                <li><a href="2015/01">Styczeń 2015</a></li>    
+            </ul>
+        </nav>
+    </section>
+    <footer id="page_footer">
+        <p>&copy; 2016 Pełen Wypas S.A. </p>
+            <nav>
+                <ul>
+                    <li><a href="http://pelenwypas.com/">Strona główna</a></li>
+                    <li><a href="about">O nas</a></li>
+                    <li><a href="terms.html">Warunki dostawy</a></li>
+                    <li><a href="privacy.html">Poufność danych</a></li>
+                </ul>
+            </nav>
+    </footer>
+    
